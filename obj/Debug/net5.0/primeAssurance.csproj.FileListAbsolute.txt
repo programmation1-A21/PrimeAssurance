@@ -1,0 +1,16 @@
+C:\Users\ccroteau\Documents\A21\Programmation1\primeAssurance\bin\Debug\net5.0\primeAssurance.exe
+C:\Users\ccroteau\Documents\A21\Programmation1\primeAssurance\bin\Debug\net5.0\primeAssurance.deps.json
+C:\Users\ccroteau\Documents\A21\Programmation1\primeAssurance\bin\Debug\net5.0\primeAssurance.runtimeconfig.json
+C:\Users\ccroteau\Documents\A21\Programmation1\primeAssurance\bin\Debug\net5.0\primeAssurance.runtimeconfig.dev.json
+C:\Users\ccroteau\Documents\A21\Programmation1\primeAssurance\bin\Debug\net5.0\primeAssurance.dll
+C:\Users\ccroteau\Documents\A21\Programmation1\primeAssurance\bin\Debug\net5.0\ref\primeAssurance.dll
+C:\Users\ccroteau\Documents\A21\Programmation1\primeAssurance\bin\Debug\net5.0\primeAssurance.pdb
+C:\Users\ccroteau\Documents\A21\Programmation1\primeAssurance\obj\Debug\net5.0\primeAssurance.csproj.AssemblyReference.cache
+C:\Users\ccroteau\Documents\A21\Programmation1\primeAssurance\obj\Debug\net5.0\primeAssurance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccroteau\Documents\A21\Programmation1\primeAssurance\obj\Debug\net5.0\primeAssurance.AssemblyInfoInputs.cache
+C:\Users\ccroteau\Documents\A21\Programmation1\primeAssurance\obj\Debug\net5.0\primeAssurance.AssemblyInfo.cs
+C:\Users\ccroteau\Documents\A21\Programmation1\primeAssurance\obj\Debug\net5.0\primeAssurance.csproj.CoreCompileInputs.cache
+C:\Users\ccroteau\Documents\A21\Programmation1\primeAssurance\obj\Debug\net5.0\primeAssurance.dll
+C:\Users\ccroteau\Documents\A21\Programmation1\primeAssurance\obj\Debug\net5.0\ref\primeAssurance.dll
+C:\Users\ccroteau\Documents\A21\Programmation1\primeAssurance\obj\Debug\net5.0\primeAssurance.pdb
+C:\Users\ccroteau\Documents\A21\Programmation1\primeAssurance\obj\Debug\net5.0\primeAssurance.genruntimeconfig.cache
